@@ -2,14 +2,22 @@
   "name": "ai-interface-prototype",
   "version": "1.0.0",
   "description": "A modern, responsive AI chat interface built with React, TypeScript, and Tailwind CSS",
-  "homepage": "https://your-netlify-app.netlify.app",
+  "homepage": "https://ai-interface-prototype.netlify.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/ai-interface-prototype.git"
+    "url": "https://github.com/Nikhil-2002/ai-interface-prototype"
   },
-  "author": "Your Name <your.email@example.com>",
+  "author": "Nikhil Falke <nikhilfalke11@gmailcom>",
   "license": "MIT",
-  "keywords": ["react", "typescript", "ai", "chat", "interface", "tailwindcss", "storybook"],
+  "keywords": [
+    "react",
+    "typescript",
+    "ai",
+    "chat",
+    "interface",
+    "tailwindcss",
+    "storybook"
+  ],
   "private": false,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",

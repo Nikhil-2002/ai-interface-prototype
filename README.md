@@ -35,16 +35,19 @@ Outstanding source citation system and clean output formatting. Excellent mobile
 ### Design System
 
 **Color Palette:**
+
 - Primary: Blue scale (50-900) for actions and highlights
 - Gray: Neutral scale (50-900) for backgrounds and text
 - Dark mode: Inverted with high contrast ratios
 
 **Typography:**
+
 - Headers: Inter 600-700 weight
 - Body: Inter 400-500 weight
 - Code: JetBrains Mono 400-500 weight
 
 **Spacing:**
+
 - Base unit: 0.25rem (4px)
 - Component padding: 1rem (16px)
 - Section gaps: 1.5rem (24px)
@@ -53,21 +56,25 @@ Outstanding source citation system and clean output formatting. Excellent mobile
 ### Component Mapping
 
 **Header Component:**
+
 - `h-16` height with `px-6` horizontal padding
 - `flex justify-between items-center` for layout
 - `bg-white dark:bg-gray-900` with `border-b` for separation
 
 **Sidebar Panel:**
+
 - `w-80` width on desktop, full-width drawer on mobile
 - `bg-gray-50 dark:bg-gray-800` background
 - `p-6` internal padding with `space-y-4` for components
 
 **Chat Area:**
+
 - `flex-1` to take remaining space
 - `max-w-4xl mx-auto` for optimal reading width
 - `space-y-4` between messages with `p-4` message padding
 
 **Parameter Controls:**
+
 - Sliders use `w-full` with custom thumb styling
 - Labels with `text-sm font-medium text-gray-700`
 - Input groups with `bg-white dark:bg-gray-800 rounded-lg p-3`
@@ -75,6 +82,7 @@ Outstanding source citation system and clean output formatting. Excellent mobile
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js 16+ and npm
 - Modern browser with ES6+ support
 
@@ -106,6 +114,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ## 📱 Features
 
 ### Core Functionality
+
 - ✅ Model selection with descriptions
 - ✅ Advanced parameter controls
 - ✅ Template save/load system
@@ -115,6 +124,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 - ✅ Responsive design
 
 ### Accessibility
+
 - ✅ Keyboard navigation
 - ✅ ARIA labels and roles
 - ✅ Focus management
@@ -122,6 +132,7 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 - ✅ High contrast mode
 
 ### Performance
+
 - ✅ Code splitting
 - ✅ Lazy loading
 - ✅ Optimized re-renders
@@ -130,11 +141,13 @@ Open [http://localhost:3000](http://localhost:3000) to view the application.
 ## 🎭 Storybook Components
 
 View component documentation:
+
 ```bash
 npm run storybook
 ```
 
 **Documented Components:**
+
 - Button - Various styles and states
 - Slider - Parameter control component
 - Modal - Overlay dialogs
@@ -163,9 +176,15 @@ src/
 - Plugin system
 - Advanced analytics
 
+# Live
+
+```bash
+**Live URL:** https://ai-interface-prototype.netlify.app/
+```
+
 ---
 
-*Built with ❤️ as a frontend prototype showcasing modern React development practices.*
-"# ai-interface-prototype" 
-"# ai-interface-prototype" 
-"# ai-interface-prototype" 
+_Built with ❤️ as a frontend prototype showcasing modern React development practices._
+"# ai-interface-prototype"
+"# ai-interface-prototype"
+"# ai-interface-prototype"
