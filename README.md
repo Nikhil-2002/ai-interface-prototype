@@ -179,7 +179,8 @@ src/
 # Live
 
 ```bash
-**Live URL:** https://ai-interface-prototype.netlify.app/
+Live URL(ai-interface-prototype): https://ai-interface-prototype.netlify.app/
+Live URL(ai-interface-storybook): https://ai-interface-storybook.netlify.app/
 ```
 
 ---
